@@ -25,4 +25,4 @@ pip install -r requirements.txt
 ## Additional sources
 
 * Further reading: [blog](https://neptune.ai/blog/data-exploration-for-image-segmentation-and-object-detection)
-* Google AutoML Vision Edge results: [link TBD](TBD)
+* Google AutoML Vision Edge results: [link](https://ibb.co/album/TmS32K)
